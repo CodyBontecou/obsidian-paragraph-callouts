@@ -3,7 +3,7 @@
   "name": "Paragraph Callouts",
   "version": "1.0.0",
   "minAppVersion": "0.15.0",
-  "description": "Inline paragraph callouts triggered by prefix characters like !, ?, ~, ;",
+  "description": "Inline paragraph callouts triggered by prefix characters like !, ?, ~, and ;.",
   "author": "Cody Bontecou",
   "isDesktopOnly": false
 }
