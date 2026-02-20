@@ -32,6 +32,14 @@ All prefix mappings are fully configurable. You can:
 
 ## Installation
 
+### From Community Plugins
+
+1. Open **Settings → Community Plugins → Browse**
+2. Search for "Paragraph Callouts"
+3. Click **Install**, then **Enable**
+
+### Manual Installation
+
 1. Copy `main.js`, `manifest.json`, and `styles.css` to your vault's `.obsidian/plugins/obsidian-paragraph-callouts/` directory.
 2. Enable the plugin in Obsidian's Community Plugins settings.
 
