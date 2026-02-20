@@ -43,6 +43,11 @@ All prefix mappings are fully configurable. You can:
 1. Copy `main.js`, `manifest.json`, and `styles.css` to your vault's `.obsidian/plugins/obsidian-paragraph-callouts/` directory.
 2. Enable the plugin in Obsidian's Community Plugins settings.
 
+
+## Inspiration
+
+This plugin was built in response to a request by u/Miserable-Singer330 in [this Reddit thread](https://www.reddit.com/r/ObsidianMD/comments/1r8vw0w/anyone_have_a_plugin_request/) — paragraph-level callouts triggered by prefix characters.
+
 ## Author
 
 Cody Bontecou
